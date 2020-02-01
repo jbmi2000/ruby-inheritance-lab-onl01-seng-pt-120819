@@ -1,5 +1,7 @@
 class Student <  User
 
+  attr_writer :knowledge
+
   # def initialize(knowledge)
   #   @knowledge = []
   # end
