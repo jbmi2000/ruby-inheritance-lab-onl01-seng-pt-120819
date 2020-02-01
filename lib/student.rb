@@ -6,13 +6,13 @@ class Student <  User
     @knowledge = []
   end
 
-  # def learn(info)
-  #   @knowledge << info
-  # end
-  #
-  # def knowledge
-  #   @knowledge
-  # end
+  def learn(info)
+    @knowledge << info
+  end
+  
+  def knowledge
+    @knowledge
+  end
 
 
 end
