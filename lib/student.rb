@@ -12,7 +12,5 @@ class Student <  User
     @knowledge
   end
 
-  end
-
 
 end
