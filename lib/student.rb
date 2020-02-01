@@ -2,9 +2,9 @@ class Student <  User
 
   attr_writer :knowledge
 
-  def initialize(knowledge)
+  #def initialize(knowledge)
     @knowledge = []
-  end
+  #end
 
   # def learn(info)
   #   @knowledge << info
